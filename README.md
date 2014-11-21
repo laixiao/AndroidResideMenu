@@ -1,0 +1,1 @@
+AndroidResideMenu类似QQ淡入淡出菜单.
