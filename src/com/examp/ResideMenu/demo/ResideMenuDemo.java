@@ -1,9 +1,10 @@
-package com;
+package com.examp.ResideMenu.demo;
 
 import com.examp.ResideMenu.ResideMenu;
 import com.examp.ResideMenu.ResideMenuInfo;
 import com.examp.ResideMenu.ResideMenuItem;
 import com.examp.ResideMenu.ResideMenuSetting;
+import com.examp.ResideMenu.ResideMenu.OnMenuListener;
 import com.example.residemenu.R;
 
 import android.app.Activity;
