@@ -3,7 +3,7 @@ AndroidResideMenu:类似QQ淡入淡出菜单
 #1.简介
   1.编码：gbk
   
-  2.一个.java文件实现resideMenu
+  2.可自定义resideMenu
   
   3.demo有详细注释
   
