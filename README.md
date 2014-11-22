@@ -30,3 +30,5 @@ AndroidResideMenu:类似QQ淡入淡出菜单
 #3.demo演示
 <img src="https://github.com/laixiao/AndroidResideMenu/blob/master/doc/menu1.png"></img>
 
+Android开发部落交流群：430049289
+
